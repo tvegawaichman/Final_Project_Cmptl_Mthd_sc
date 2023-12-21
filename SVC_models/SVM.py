@@ -1,4 +1,4 @@
-## Code from: https://github.com/fungenomics/scCoAnnotate/tree/main/Scripts/SVC
+## Code adapted from: https://github.com/fungenomics/scCoAnnotate/tree/main/Scripts/SVC
 #--------------- Libraries -------------------
 import numpy as np
 import pandas as pd
